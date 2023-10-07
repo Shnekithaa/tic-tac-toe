@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-container{
+    background-color: dodgerblue;
+    text-align: center;
+    padding: 60px;
+}
+
+.heading{
+    font-family: 'Fredoka';
+    font-size: 80px;
+    color: #FAB201;
+    -webkit-text-stroke: 2px white;
+}
+
+p{
+    font-family: 'Fredoka';
+    color: white;
+    font-size: 25px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 12px;
+    border-width: 0;
+    margin: 10px;
+}
+.big-box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
